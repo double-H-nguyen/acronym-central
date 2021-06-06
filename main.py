@@ -12,6 +12,8 @@ def main():
         print("Thursday")
     elif (user_input == "fri"):
         print("Friday")
+    elif (user_input == "lol"):
+        print("Laugh Out Loud")
     else:
         print("That acronym does not exist")
 
